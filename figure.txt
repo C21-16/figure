@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="figure.css">
+  </head>
+<body>
+
+<div class="container">
+  <div class="box static">Статичне позиціонування</div>
+  <div class="box relative">Відносне позиціонування/div>
+  <div class="box absolute">Абсолютне позиціонування</div>
+  <div class="box fixed">Фіксоване позиціонування</div>
+</div>
+
+</body>
+</html>
